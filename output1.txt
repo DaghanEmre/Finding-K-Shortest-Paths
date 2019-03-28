@@ -1,0 +1,14 @@
+ 1. Shortest Path: 55 	1     5     6     7    11    12   
+ 2. Shortest Path: 58 	1     2     3     4     8    12
+ 3. Shortest Path: 59 	1     2     3     7    11    12
+ 4. Shortest Path: 61 	1     5     6    10    11    12
+ 5. Shortest Path: 62 	1     2     6     7    11    12
+ 6. Shortest Path: 64 	1     5     6     7     8    12
+ 7. Shortest Path: 65 	1     5     9    10    11    12
+ 8. Shortest Path: 68 	1     2     3     7     8    12
+ 9. Shortest Path: 68 	1     2     6    10    11    12
+10. Shortest Path: 71 	1     2     6     7     8    12
+
+
+
+
